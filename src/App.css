@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+form{
+  height: 60vh;
+  width: 40%;
+  background-color: grey;
+  margin-left:40%;
+}
+h1 {
+  text-align: center;
+}
